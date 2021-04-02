@@ -4,7 +4,7 @@ Shell Script Programming</br>
 Duyoung Jang</br>
 
 
-Making Multiple Users Program</br>
+<h1>Making Multiple Users Program</h1></br>
 1. Enter Username</br>
 2. Starting Number</br>
 3. The number of Users you want to add</br>
@@ -13,15 +13,15 @@ Making Multiple Users Program</br>
 6. Give permissions to execute</br>
 7. Execute with ./MMU.sh</br></br>
 <img src="https://user-images.githubusercontent.com/54985943/113413444-afc31380-93f5-11eb-8e5f-5cffc0d82554.png" />
-</br>Successfully Added 5users: test2000~2004 with password: P@ssw0rd</br>
+</br><strong>Successfully Added 5users: test2000~2004 with password: P@ssw0rd</strong></br>
 </hr>
 
-<h4>seq is to print a sequence of numbers</h4></br>
+<h3>seq is to print a sequence of numbers</h3></br>
 seq [OPTION]… LAST</br>
 seq [OPTION]… FIRST LAST</br>
 seq [OPTION]… FIRST INCREMENT LAST</br>
 expr is to evaluate expressions</br>
-<h4>ARG1 | ARG2 ARG1 if it is neither null nor 0, otherwise ARG2</h4></br>
+<h3>ARG1 | ARG2 ARG1 if it is neither null nor 0, otherwise ARG2</h3></br>
 ARG1 & ARG2 ARG1 if neither argument is null or 0, otherwise 0</br>
 ARG1 < ARG2 ARG1 is less than ARG2</br>
 ARG1 <= ARG2 ARG1 is less than or equal to ARG2</br>
