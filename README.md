@@ -4,7 +4,7 @@ Shell Script Programming</br>
 Duyoung Jang</br>
 
 
-<h1>Making Multiple Users Program</h1></br>
+<h1>Making Multiple Users Program</h1>
 1. Enter Username</br>
 2. Starting Number</br>
 3. The number of Users you want to add</br>
@@ -16,7 +16,7 @@ Duyoung Jang</br>
 </br><strong>Successfully Added 5users: test2000~2004 with password: P@ssw0rd</strong></br>
 </hr>
 
-<h3>seq is to print a sequence of numbers</h3></br>
+<h3>seq is to print a sequence of numbers</h3>
 seq [OPTION]… LAST</br>
 seq [OPTION]… FIRST LAST</br>
 seq [OPTION]… FIRST INCREMENT LAST</br>
