@@ -10,7 +10,7 @@ Duyoung Jang</br>
 3. The number of Users you want to add</br>
 4. Create Password for each user; P@ssw0rd</br>
 5. Create MMU.sh</br>
-6. Give permissions to execute</br>
+6. Give permissions to execute: chmod -x MMU.sh</br>
 7. Execute with ./MMU.sh</br></br>
 <img src="https://user-images.githubusercontent.com/54985943/113413444-afc31380-93f5-11eb-8e5f-5cffc0d82554.png" />
 </br><strong>Successfully Added 5users: test2000~2004 with password: P@ssw0rd</strong></br>
