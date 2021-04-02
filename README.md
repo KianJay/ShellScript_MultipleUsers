@@ -13,7 +13,7 @@ Making Multiple Users Program</br>
 6. Give permissions to execute</br>
 7. Execute with ./MMU.sh</br></br>
 <img src="https://user-images.githubusercontent.com/54985943/113413444-afc31380-93f5-11eb-8e5f-5cffc0d82554.png" />
-
+</br>Successfully Added 5users: test2000~2004 with password: P@ssw0rd</br>
 </hr>
 
 <h4>seq is to print a sequence of numbers</h4></br>
@@ -34,5 +34,5 @@ ARG1 - ARG2 arithmetic difference of ARG1 and ARG2</br>
 ARG1 * ARG2 arithmetic product of ARG1 and ARG2</br>
 ARG1 / ARG2 arithmetic quotient of ARG1 divided by ARG2</br>
 ARG1 % ARG2 arithmetic remainder of ARG1 divided by ARG2</br>
-</hr>
+</hr></br>
 You can learn more here: https://medium.com/kianj/linux-shell-script-programming-making-simple-multiple-users-program-e4330ff92f1e
